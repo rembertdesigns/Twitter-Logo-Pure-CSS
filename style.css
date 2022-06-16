@@ -173,3 +173,24 @@ ul, li{
     background: #fff;
     z-index: 28;
 }
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: fff;
+    text-align: center;
+  }
+  .footer p {
+  text-decoration: none;
+  color: #000;
+  }
+  .footer a {
+    text-decoration: none;
+    color: #3a7cec;
+  }
+  .footer a:hover {
+    text-decoration: underline;
+    color: #2ba14b;
+  }
